@@ -1,3 +1,2 @@
 # stepik_auto_tests_course
-homework
-ссылочка на курс
+homeworks по курсу автоматизации на степике
